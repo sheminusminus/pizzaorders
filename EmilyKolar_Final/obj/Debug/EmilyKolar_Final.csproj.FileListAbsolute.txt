@@ -1,0 +1,6 @@
+\\iam.local\usernoniam\emily.kolar\visual studio 2013\Projects\EmilyKolar_Final\EmilyKolar_Final\bin\Debug\EmilyKolar_Final.exe.config
+\\iam.local\usernoniam\emily.kolar\visual studio 2013\Projects\EmilyKolar_Final\EmilyKolar_Final\bin\Debug\EmilyKolar_Final.exe
+\\iam.local\usernoniam\emily.kolar\visual studio 2013\Projects\EmilyKolar_Final\EmilyKolar_Final\bin\Debug\EmilyKolar_Final.pdb
+\\iam.local\usernoniam\emily.kolar\visual studio 2013\Projects\EmilyKolar_Final\EmilyKolar_Final\obj\Debug\EmilyKolar_Final.csprojResolveAssemblyReference.cache
+\\iam.local\usernoniam\emily.kolar\visual studio 2013\Projects\EmilyKolar_Final\EmilyKolar_Final\obj\Debug\EmilyKolar_Final.exe
+\\iam.local\usernoniam\emily.kolar\visual studio 2013\Projects\EmilyKolar_Final\EmilyKolar_Final\obj\Debug\EmilyKolar_Final.pdb
